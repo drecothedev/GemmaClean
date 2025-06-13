@@ -1,6 +1,6 @@
 Gemma is an AI-powered mock interview app that lets users practice real interview questions with voice interaction and personalized, spoken feedback tailored, towards the user’s success
 
-I have attacehd some demo images: 
+I have attached some demo images: 
 
 
 ![IMG_0304](https://github.com/user-attachments/assets/e50d9c56-eb7b-4ec0-99d1-7d1756431fc4)
